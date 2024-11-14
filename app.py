@@ -5,7 +5,6 @@ import zipfile
 import os
 from io import StringIO
 
-import gspread
 from google.oauth2 import service_account
 from googleapiclient.discovery import build
 
